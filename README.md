@@ -1,4 +1,4 @@
-# lightisa
+## lightISA
 
-## a basic RISC instruction set architecture and its interpreter based on mips, sparc, and risc-v
+a RISC bytecode instruction set with an interpreter written in lua!
 
